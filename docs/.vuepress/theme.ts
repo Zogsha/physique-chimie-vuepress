@@ -15,7 +15,7 @@ export default hopeTheme({
 
   repo: "Zogsha/physique-chimie-vuepress",
 
-  docsDir: "demo/src",
+  docsDir: "docs",
 
   // navbar
   navbar: navbar,
