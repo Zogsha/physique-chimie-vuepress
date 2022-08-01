@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as c,c as r}from"./app.6b6a9dcb.js";const o={};function n(t,a){return c(),r("div")}var s=e(o,[["render",n],["__file","force-dun-acide-ou-dune-base.html.vue"]]);export{s as default};
