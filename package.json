@@ -1,0 +1,23 @@
+{
+  "name": "physique-chimie-vuepress",
+  "version": "0.0.1",
+  "description": "description",
+  "main": "index.js",
+  "repository": "yeah",
+  "author": "Aliosha Padovani <aliosha.padovani@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@vuepress/client": "^2.0.0-beta.49",
+    "@vuepress/plugin-search": "^2.0.0-beta.49",
+    "vue": "^3.2.36",
+    "vuepress": "^2.0.0-beta.49",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.87",
+    "vuepress-theme-hope": "^2.0.0-beta.87"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache"
+  }
+}
