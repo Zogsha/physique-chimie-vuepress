@@ -1,9 +1,9 @@
 {
   "name": "physique-chimie-vuepress",
   "version": "0.0.1",
-  "description": "description",
+  "description": "Un site contenant tous les cours de physique-chimie",
   "main": "index.js",
-  "repository": "yeah",
+  "repository": "https://github.com/Zogsha/physique-chimie-vuepress",
   "author": "Aliosha Padovani <aliosha.padovani@gmail.com>",
   "license": "MIT",
   "private": true,
