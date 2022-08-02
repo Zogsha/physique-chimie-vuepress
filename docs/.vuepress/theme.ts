@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://zogsha.github.io/physique-chimie-vuepress/",
 
   author: {
     name: "Aliosha Padovani",
