@@ -7,7 +7,7 @@ export default defineUserConfig({
   title: "PC Berthelot",
   description: "A demo for vuepress-theme-hope",
 
-  base: "/",
+  base: "/physique-chimie-vuepress/",
 
   theme,
   plugins: [
