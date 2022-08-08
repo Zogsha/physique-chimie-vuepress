@@ -1,35 +1,30 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/constitution-et-transformation-de-la-matiere/": [
+  "/t-spe/": [
     {
-      text: "Evolution spontanée d'un système chimique",
-      prefix:
-        "/constitution-et-transformation-de-la-matiere/prevoir-letat-final-dun-systemesiege-dune-transformation-chimique/evolution-spontanee-dun-systeme-chimique/",
+      text: "Composition et transformation de la matière",
+      prefix : "composition-et-transformation-de-la-matiere/",
       collapsable: true,
-      children: [
-        "introduction.md",
-        "equilibre-chimique.md",
-        "evolution-spontanee-dun-systeme-hors-equilibre-chimique.md",
-      ],
+      children: "structure"
     },
     {
-      text: "Acides et bases",
-      prefix:
-        "/constitution-et-transformation-de-la-matiere/prevoir-letat-final-dun-systemesiege-dune-transformation-chimique/acides-et-bases/",
+      text: "Mouvement et interactions",
+      prefix : "mouvement-et-interactions/",
       collapsable: true,
-      children: [
-        "introduction.md",
-        "les-acides-et-les-bases.md",
-        "force-dun-acide-ou-dune-base.md",
-      ],
+      children: "structure"
     },
     {
-      text: "Piles et électrolyse",
-      prefix:
-        "/constitution-et-transformation-de-la-matiere/prevoir-letat-final-dun-systemesiege-dune-transformation-chimique/piles-et-electrolyse/",
+      text: "Ondes et signaux",
+      prefix : "ondes-et-signaux/",
       collapsable: true,
-      children: ["README.md"],
+      children: "structure"
+    },
+    {
+      text: "Energie : conversions et tarnsferts",
+      prefix : "energie-conversions-et-transferts/",
+      collapsable: true,
+      children: "structure"
     },
   ],
 });
