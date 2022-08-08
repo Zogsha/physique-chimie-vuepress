@@ -16,7 +16,7 @@ export default hopeTheme({
   repo: "Zogsha/physique-chimie-vuepress",
 
   docsDir: "docs",
-  docsBranch : "master",
+  docsBranch : "main",
 
   // navbar
   navbar: navbar,
@@ -36,8 +36,20 @@ export default hopeTheme({
   pageInfo: ["Date", "ReadingTime"],
 
   plugins: {
+    readingTime :{
+      wordPerMinute: 200,
+    },
     mdEnhance: {
-      enableAll: true,
+      container: true,
+      sub: true,
+      sup: true,
+      footnote: true,
+      mark: true,
+      chart: true,
+      echarts: true,
+      flowchart: true,
+      mermaid: true,
+      tex: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
