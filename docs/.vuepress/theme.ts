@@ -26,6 +26,7 @@ export default hopeTheme({
 
   displayFooter: false,
 
+  darkmode: "toggle",
   fullscreen: true,
   themeColor: {
     blue: "#2196f3",
