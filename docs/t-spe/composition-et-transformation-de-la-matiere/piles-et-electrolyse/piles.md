@@ -1,2 +1,5 @@
-# Piles
+---
+order: 2
+---
 
+# Piles

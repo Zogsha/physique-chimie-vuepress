@@ -1,2 +1,5 @@
-# Modèle du circuit RC série
+---
+order: 3
+---
 
+# Modèle du circuit RC série

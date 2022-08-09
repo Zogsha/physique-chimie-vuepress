@@ -1,2 +1,5 @@
-# Constitution
+---
+order: 2
+---
 
+# Constitution
