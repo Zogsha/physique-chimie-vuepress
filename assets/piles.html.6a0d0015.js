@@ -1,0 +1,1 @@
+import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";import{o as s,c as t,a as e,b as r}from"./app.05348533.js";const o={},c=e("h1",{id:"piles",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#piles","aria-hidden":"true"},"#"),r(" Piles")],-1),i=[c];function _(l,n){return s(),t("div",null,i)}var f=a(o,[["render",_],["__file","piles.html.vue"]]);export{f as default};
