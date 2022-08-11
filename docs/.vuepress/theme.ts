@@ -27,14 +27,10 @@ export default hopeTheme({
   displayFooter: false,
 
   darkmode: "toggle",
-  fullscreen: true,
-  themeColor: {
-    blue: "#2196f3",
-    red: "#f26d6d",
-    orange: "#fb9b5f",
-  },
+  themeColor: false,
+  fullscreen: false,
 
-  pageInfo: ["Date", "ReadingTime"],
+  pageInfo: ["Date", "Word", "ReadingTime"],
 
   plugins: {
     readingTime :{
