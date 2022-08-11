@@ -1,6 +1,6 @@
 ---
-title: Ondes et signaux
 index: false
 dir:
+  text: Ondes et signaux
   order: 4
 ---

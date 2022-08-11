@@ -1,7 +1,8 @@
 ---
-title: Évolution spontanée d'un système hors équilibre chimique
 order: 3
 ---
+
+# Évolution spontanée d'un système hors équilibre chimique
 
 ## Quotient de réaction Qr
 

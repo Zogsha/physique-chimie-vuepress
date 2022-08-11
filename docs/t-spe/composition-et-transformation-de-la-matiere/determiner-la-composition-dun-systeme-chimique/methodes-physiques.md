@@ -1,2 +1,5 @@
-# Méthodes physiques
+---
+order: 2
+---
 
+# Méthodes physiques

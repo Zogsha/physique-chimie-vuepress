@@ -2,7 +2,7 @@
 title: Acides et bases
 index: false
 dir:
-  order: 1
+  order: 2
 ---
 
 ## Table des matières
@@ -11,4 +11,4 @@ dir:
 
 2. [Les acides et les bases](les-acides-et-les-bases.md)
 
-3. [Force d'un acide ou d'une base](force-dun-acide-ou-dune-base.md)
+3. [Force d'un acide ou d'une base](force-des-acides-et-des-bases.md)

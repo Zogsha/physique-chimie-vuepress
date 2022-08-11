@@ -1,7 +1,8 @@
 ---
-title: Équilibre chimique
 order: 2
 ---
+
+# Équilibre chimique
 
 ## Transformation non totale et équilibre chimique
 

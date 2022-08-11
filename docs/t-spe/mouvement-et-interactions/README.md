@@ -1,6 +1,6 @@
 ---
-title: Mouvements et interactions
 index: false
 dir:
+  text: Mouvement et interactions
   order: 2
 ---

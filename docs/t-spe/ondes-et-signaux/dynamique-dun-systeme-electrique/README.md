@@ -2,5 +2,5 @@
 title: Dynamique d'un système électrique
 index: false
 dir:
-  order: 1
+  order: 3
 ---

@@ -1,6 +1,5 @@
 ---
-title: Terminale spé
 index: false
 dir:
-  order: 1
+  text: Terminale spé
 ---
