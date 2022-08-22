@@ -11,4 +11,4 @@ dir:
 
 2. [Équilibre chimique](equilibre-chimique.md)
 
-3. [Évolution spontanée d'un système hors équilibre chimique](evolution-spontanee-dun-systeme-hors-equilibre-chimique.md)
+3. [Évolution spontanée d'un système hors équilibre chimique](hors-equilibre-chimique.md)

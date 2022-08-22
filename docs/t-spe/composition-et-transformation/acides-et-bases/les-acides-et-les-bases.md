@@ -113,7 +113,7 @@ $$
 
 Toute solution aqueuse contient donc des ions $H_3O^+$ et $HO^-$.
 
-La constante d’équilibre a déjà été vu précédemment [(voir chapitre)](../evolution-spontanee-dun-systeme-chimique/evolution-spontanee-dun-systeme-hors-equilibre-chimique.md#constante-d-equilibre-k-t) et s’écrit :
+La constante d’équilibre a déjà été vu précédemment [(voir chapitre)](../evolution-spontanee/hors-equilibre-chimique.md#constante-d-equilibre-k-t) et s’écrit :
 $$
 Ke=\frac{[H_3O^+]_{éq} \times [HO^-]_{éq}}{c°^2}
 $$
