@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as o,a as e,b as s}from"./app.3d6af253.js";const t={},l=e("h1",{id:"lois-de-kepler",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lois-de-kepler","aria-hidden":"true"},"#"),s(" Lois de Kepler")],-1),c=[l];function d(i,_){return a(),o("div",null,c)}var h=r(t,[["render",d],["__file","lois-de-kepler.html.vue"]]);export{h as default};

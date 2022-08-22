@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as t,a as e,b as r}from"./app.3d6af253.js";const c={},o=e("h1",{id:"piles",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#piles","aria-hidden":"true"},"#"),r(" Piles")],-1),i=[o];function _(l,n){return s(),t("div",null,i)}var h=a(c,[["render",_],["__file","piles.html.vue"]]);export{h as default};

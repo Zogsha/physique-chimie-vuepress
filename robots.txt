@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://zogsha.github.io/physique-chimie-vuepress/physique-chimie-vuepress/sitemap.xml
