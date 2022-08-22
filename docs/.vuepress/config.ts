@@ -1,10 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import { searchPlugin } from "@vuepress/plugin-search";
-import theme from "./theme";
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
+import theme from "./themeDefault";
 
 export default defineUserConfig({
   lang: "fr-FR",
-  title: "PC Berthelot",
+  title: "classBot_",
   description: "A demo for vuepress-theme-hope",
 
   base: "/physique-chimie-vuepress/",
@@ -12,7 +13,12 @@ export default defineUserConfig({
   theme,
   plugins: [
     searchPlugin({
-      // your options
+    }),
+    mdEnhancePlugin({
+      enableAll: true,
     }),
   ],
+  extendsMarkdown:(md) => {
+    md.use(require("markdown-it-abbr"))
+  },
 });
