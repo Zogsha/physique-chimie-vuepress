@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as r,a as e,b as a}from"./app.3d6af253.js";const o={},n=e("h1",{id:"grossissement",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#grossissement","aria-hidden":"true"},"#"),a(" Grossissement")],-1),c=[n];function i(_,d){return t(),r("div",null,c)}var h=s(o,[["render",i],["__file","grossissement.html.vue"]]);export{h as default};

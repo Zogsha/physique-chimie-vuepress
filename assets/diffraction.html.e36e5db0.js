@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,b as c}from"./app.45aa02fe.js";const o={},i=e("h1",{id:"diffraction",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#diffraction","aria-hidden":"true"},"#"),c(" Diffraction")],-1),n=[i];function f(d,s){return t(),r("div",null,n)}var h=a(o,[["render",f],["__file","diffraction.html.vue"]]);export{h as default};

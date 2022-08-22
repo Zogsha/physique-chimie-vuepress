@@ -1,1 +1,0 @@
-import{_ as r,o as i,c,a as e,b as a}from"./app.3d6af253.js";const t={},n=e("h1",{id:"premier-principe",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#premier-principe","aria-hidden":"true"},"#"),a(" Premier principe")],-1),o=[n];function p(s,_){return i(),c("div",null,o)}var m=r(t,[["render",p],["__file","premier-principe.html.vue"]]);export{m as default};
